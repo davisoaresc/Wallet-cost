@@ -1,5 +1,4 @@
 # Wallet Cost
-
 The objective of this project was to develop an interface where the person logs in,
 and has access to a form where she adds her personal expenses, which can be in foreign currency.
 For the site to have exchange control over the currencies and make the calculations with the most recent value
