@@ -13,13 +13,13 @@ HTML, CSS, JAVA SCRIPT, REACT, REDUX and REDUX THUNK;
 
 1. Clone the repository
 
-- [ git clone git@github.com:davisoaresc/Wallet-cost.git ]
+- git clone git@github.com:davisoaresc/Wallet-cost.git 
 - Enter the page you cloned
-  - [ cd sd-015-b-project-trybewallet ]
+  - cd Wallet-cost
 
 2. Install the dependencies and initialize the project
 
 - Install dependencies:
-  - [ npm install ]
+  - npm install
 - Inicialize o projeto:
-  - [ npm start ]
+  - npm start
